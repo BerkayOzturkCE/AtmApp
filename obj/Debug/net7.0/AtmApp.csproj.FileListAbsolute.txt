@@ -1,0 +1,15 @@
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\bin\Debug\net7.0\AtmApp.exe
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\bin\Debug\net7.0\AtmApp.deps.json
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\bin\Debug\net7.0\AtmApp.runtimeconfig.json
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\bin\Debug\net7.0\AtmApp.dll
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\bin\Debug\net7.0\AtmApp.pdb
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\obj\Debug\net7.0\AtmApp.csproj.AssemblyReference.cache
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\obj\Debug\net7.0\AtmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\obj\Debug\net7.0\AtmApp.AssemblyInfoInputs.cache
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\obj\Debug\net7.0\AtmApp.AssemblyInfo.cs
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\obj\Debug\net7.0\AtmApp.csproj.CoreCompileInputs.cache
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\obj\Debug\net7.0\AtmApp.dll
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\obj\Debug\net7.0\refint\AtmApp.dll
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\obj\Debug\net7.0\AtmApp.pdb
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\obj\Debug\net7.0\AtmApp.genruntimeconfig.cache
+C:\Users\brozt\Desktop\VsData\AtmApp\AtmApp\obj\Debug\net7.0\ref\AtmApp.dll

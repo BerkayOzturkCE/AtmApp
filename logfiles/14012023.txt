@@ -1,0 +1,15 @@
+14/01/2023 - 08.57 => 5 id'li hesap oluşturuldu.
+14/01/2023 - 08.57 => 1 id'li hesaba giriş yapıldı.
+14/01/2023 - 08.58 => 1 id'li kullanıcının hesabından 1000 miktarında para çekildi.
+14/01/2023 - 08.58 => 1 id'li kullanıcının hesabına 5000 miktarında para yatırıldı.
+14/01/2023 - 08.58 => 1 id'li kullanıcının hesabından 5 id'li kullanıcının hesabına 4003 miktarında para gönderildi.
+14/01/2023 - 08.58 => 1 id'li kullanıcının para gönderme işlemi alıcı hesabı bulunamadığından iptal edildi.
+14/01/2023 - 08.58 => 1 id'li kullanıcının hesabından 3 id'li kullanıcının hesabına 123213131 miktarında para yetersiz bakiye sebebiyle gönderilemedi.
+14/01/2023 - 08.58 => Hatalı Id veya Şifre girildi. ID: 21321
+14/01/2023 - 08.58 => Id veya şifre hatalı hatası alındı.
+14/01/2023 - 08.58 => 5 id'li hesaba giriş yapıldı.
+14/01/2023 - 08.59 => 5 id'li kullanıcının hesabından 1000 miktarında para çekildi.
+12421313 miktarında para yetersiz bakiye sebebiyle gönderilemedi.
+14/01/2023 - 08.43 => 1 id'li kullanıcının hesabına 1000 miktarında para yatırıldı.
+14/01/2023 - 08.44 => Hatalı Id veya Şifre girildi. ID: 123
+14/01/2023 - 08.44 => Id veya şifre hatalı hatası alındı.
